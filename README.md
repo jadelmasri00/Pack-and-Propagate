@@ -1,9 +1,9 @@
-**Pack and Spread: An Improved Blockchain Consensus Algorithm**
+**Pack and Propagate, An Improved Blockchain Consensus Algorithm**
 
 This repository hosts the research paper:
 
 “Pack and Spread: An Improved Blockchain Consensus Algorithm”
-(See Pack_and_Spread.pdf for the full text.)
+(See Pack_and_Propagate.pdf for the full text.)
 
 **Overview**
 
